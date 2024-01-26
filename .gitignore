@@ -2,7 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+*.psd
+.DS_Store
+/figures/.DS_Store/
 # C extensions
 *.so
 __pycache__/
