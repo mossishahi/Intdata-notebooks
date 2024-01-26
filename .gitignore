@@ -5,6 +5,18 @@ __pycache__/
 
 # C extensions
 *.so
+__pycache__/
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+*.bed
+*.pdf
+*.png
+*.pt
+*.pickle
+*.csv
+*.tsv
+experiment*
+~                                                                                                                                                           
 
 # Distribution / packaging
 .Python
